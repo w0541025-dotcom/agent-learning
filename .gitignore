@@ -1,0 +1,14 @@
+# Python 环境与本地产物
+.venv/
+__pycache__/
+*.pyc
+
+# 密钥文件，永远不要提交
+.env
+
+# 系统文件
+.DS_Store
+
+# 克隆来的学习资料：别人的仓库，不参与我们的版本管理
+all-in-rag/
+AgentGuide/

@@ -6,6 +6,9 @@ __pycache__/
 # 密钥文件，永远不要提交
 .env
 
+# 生成物：向量库数据（跟 .venv 同理，代码入库、产物不入库）
+projects/rag-project/chroma_db/
+
 # 系统文件
 .DS_Store
 

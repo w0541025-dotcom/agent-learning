@@ -8,6 +8,7 @@ __pycache__/
 
 # 生成物：向量库数据（跟 .venv 同理，代码入库、产物不入库）
 projects/rag-project/chroma_db/
+projects/rag-project/chroma_bench/
 
 # 系统文件
 .DS_Store
